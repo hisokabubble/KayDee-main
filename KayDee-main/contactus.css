@@ -1,0 +1,51 @@
+
+body{
+    background-color: #2A9696;
+    margin:0;
+    padding:0;
+}
+
+aside{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    font-family: 'Josefin Sans';
+    top:10px;
+    padding:50px;
+    margin:10px;
+    height:30px;
+
+}
+
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+a{color:black;}
+
+strong{
+    font-size:25px;
+}
+
+article{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    top: 150%;
+    padding: 50px;
+    margin: 10px;
+    height:100px;
+
+}
+
+nav{
+    display:flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    top: 30%;
+    padding: 140px;
+    margin: 10px;
+    height:20px;
+}

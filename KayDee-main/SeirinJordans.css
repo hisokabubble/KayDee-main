@@ -1,0 +1,87 @@
+body{
+    background-color: #2A9696;
+    margin:0;
+    padding:0;
+}
+
+aside{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    font-family: 'Josefin Sans';
+    top:10px;
+    padding:50px;
+    margin:10px;
+    height:30px;
+
+}
+nav{display:flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 30px;
+    font-family: 'Josefin Sans';
+    position:fixed;
+    position:sticky;
+    top: 0px;
+    padding: 20px;
+    margin: 5px;
+    height:35px;
+    
+
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+a{color:black;}
+
+strong{
+    font-size:25px;
+}
+
+article{
+    display:flex;
+    align-items: flex-start;
+    top: 150%;
+    padding: 50px;
+    margin: 10px;
+    height:60px;
+
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Josefin Sans';
+    font-size: 80px;
+    top:0;
+
+
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5%;
+    top:10%;
+    height: 0px;
+
+}
+
+y{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}

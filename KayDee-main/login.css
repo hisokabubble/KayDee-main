@@ -1,0 +1,71 @@
+body{
+    background-color: black;
+    margin:0;
+    padding:0;
+}
+
+
+article{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top:100px;
+    padding:300px;
+    margin:10px;
+    height:30px;
+}
+
+
+  
+
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 20px 0;
+    display: inline-block;
+    background-color: cyan;
+    box-sizing: border-box;
+    font-family:'Josefin Sans' ;
+  }
+  
+  
+ a {
+    background-color: #424177;
+    color: white;
+    padding: 14px 20px;
+    margin: 0px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+
+  .container {
+    padding: 16px;
+    color:white;
+  }
+  
+  span.psw {
+    float: right;
+    padding-top: 16px;
+  }
+  
+ 
+  @media screen and (max-width: 300px) {
+    span.psw {
+      display: block;
+      float: none;
+    }
+    .cancelbtn {
+      width: 100%;
+    }
+  }
