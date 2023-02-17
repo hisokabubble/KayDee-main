@@ -2,7 +2,7 @@
 IP Kaydeefeet
 
 Github Link: 
-https://github.com/hisokabubble/KayDee.git
+https://github.com/hisokabubble/KayDee-main.git
 
 We are KayDeesFeet and our project is called KayDee. Our group members consists of Chai Yong Kang and Shaun Heng. We chose to focus on an e-commerce store selling basketball jerseys and shoes. We also gamified our web application by adding lucky spins and events to help further enhance the user experience. 
 
